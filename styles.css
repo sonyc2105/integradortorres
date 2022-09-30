@@ -1,0 +1,50 @@
+ #{
+    $navbar-brand-margin-end
+}
+nav-item{
+    color:aliceblue;
+}
+
+nav img {
+    width: 120px;
+    height: 60px;    
+}
+
+h3{
+    text-align: end;
+    margin-right:  75px;px;
+    margin-top: 250px;
+}
+#cuadro{
+    margin-right: 65px;
+    margin-top: 5px;
+}
+.d-grid gap-2 d-md-bloc{
+    
+    margin-right: 75px;
+
+}
+
+#texto{
+
+    margin-right: 65px;
+    margin-top: 300px;
+}
+
+nav contenedor{
+    margin: 0%;
+}
+
+#floatingTextarea2{
+   font-size:x-large;
+}
+#btonenviar{
+    background-color:rgb(23, 175, 23);
+    color: aliceblue;
+}
+footer{
+    padding: 20px;
+    background-color:rgb(23, 36, 49); 
+    
+    color: antiquewhite;
+}
